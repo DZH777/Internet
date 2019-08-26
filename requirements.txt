@@ -1,3 +1,6 @@
 flask
 flask_session
+copy
+math
+tempfile
 gunicorn
